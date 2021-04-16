@@ -1,14 +1,14 @@
 
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyA6XprGSDC6iLaeQ__Li5zp3UNl7BB9peA",
-    authDomain: "contact-member-otonow.firebaseapp.com",
-    projectId: "contact-member-otonow",
-    storageBucket: "contact-member-otonow.appspot.com",
-    messagingSenderId: "109670469295",
-    appId: "1:109670469295:web:2081ff466bf057c5948e5a",
-    measurementId: "G-P46DF7H7TH"
+    apiKey: "AIzaSyDskH7D9b15O6ymC-TGtVKUN5l0ih209Y4",
+    authDomain: "otonow-project.firebaseapp.com",
+    projectId: "otonow-project",
+    storageBucket: "otonow-project.appspot.com",
+    messagingSenderId: "911089053771",
+    appId: "1:911089053771:web:7ae6fff2894d411a5bddce"
   };
+
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
